@@ -1,1 +1,1 @@
-Backend for polling appling written with SpringBoot
+Backend for polling application written with SpringBoot
